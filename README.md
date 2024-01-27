@@ -10,6 +10,4 @@ The script adds simulated noise to the signal and plays the resulting noisy audi
 The original and noisy signals are plotted for visual comparison.
 Spectral analysis is conducted, displaying the single-sided amplitude spectrum.
 A bandpass filter is designed and applied to the noisy signal, and the filtered signal is plotted and played.
-## Dependencies
-MATLAB R2019a or later
 Feel free to adjust parameters, such as filter order and cutoff frequencies, to explore different signal processing scenarios.
